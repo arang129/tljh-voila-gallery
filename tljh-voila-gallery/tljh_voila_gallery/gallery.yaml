@@ -15,15 +15,6 @@ examples:
   gaussian-density:
     title: Gaussian Density
     description: Explore the normal distribution interactively with bqplot
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/gaussian-density
-    ref: a643a1b180e1892840f4f692115f05a2b6df7bcb
+    url: index.ipynb
+    repo_url: https://github.com/arang129/gaussian-density
     image_url: https://i.imgur.com/J1Mj6rc.png
-  render-stl:
-    title: Render Stl
-    description: Explore STL files with ipyvolume
-    url: voila/render/index.ipynb
-    repo_url: https://github.com/voila-gallery/render-stl
-    ref: 23182d099e3b97bce3f64ec383d93ddc4734fe17
-    image_url: https://github.com/voila-gallery/render-stl/raw/master/thumbnail.png
-

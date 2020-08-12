@@ -2,7 +2,7 @@ examples:
   questionnaire:
     title: Yuntech
     description: 雲科大財金系實務專題
-    url: voila/render/index.ipynb
+    url: index.ipynb
     repo_url: https://github.com/arang129/questionnaire
     image_url: https://i.imgur.com/xRbn2ip.png
   country-indicators:
